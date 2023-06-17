@@ -3,7 +3,7 @@
 <h3 align="center">A full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw5ZmphejIzZ3loZWlpMzIwMHJ4b3c3eHE5Yzh4bTg5NzFzOWhveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhuofficial&label=Profile%20views&color=0e75b6&style=flat" alt="vibhuofficial" /> </p>
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="vibhuofficial" /> </p>
 
 - 🌱 I’m currently learning **AI/ML**
 
